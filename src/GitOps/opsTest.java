@@ -6,7 +6,8 @@ public class opsTest {
 		// TODO Auto-generated method stub
 System.out.println("Satya + Ved + Deo = Tridev Sharma");
 		
-		System.out.println("Papa + Mummy = Best Couple");
+
+		System.out.println("Papa + Mummy = Best Parents");
 
 	}
 
